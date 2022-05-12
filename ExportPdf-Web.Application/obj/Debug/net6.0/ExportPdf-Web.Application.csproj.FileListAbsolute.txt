@@ -1,0 +1,15 @@
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Application/bin/Debug/net6.0/ExportPdf-Web.Application.deps.json
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Application/bin/Debug/net6.0/ExportPdf-Web.Application.dll
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Application/bin/Debug/net6.0/ExportPdf-Web.Application.pdb
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Application/bin/Debug/net6.0/ExportPdf-Web.Domain.dll
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Application/bin/Debug/net6.0/ExportPdf-Web.Domain.pdb
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Application/obj/Debug/net6.0/ExportPdf-Web.Application.csproj.AssemblyReference.cache
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Application/obj/Debug/net6.0/ExportPdf-Web.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Application/obj/Debug/net6.0/ExportPdf-Web.Application.AssemblyInfoInputs.cache
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Application/obj/Debug/net6.0/ExportPdf-Web.Application.AssemblyInfo.cs
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Application/obj/Debug/net6.0/ExportPdf-Web.Application.csproj.CoreCompileInputs.cache
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Application/obj/Debug/net6.0/ExportPdf-Web.Application.csproj.CopyComplete
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Application/obj/Debug/net6.0/ExportPdf-Web.Application.dll
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Application/obj/Debug/net6.0/refint/ExportPdf-Web.Application.dll
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Application/obj/Debug/net6.0/ExportPdf-Web.Application.pdb
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Application/obj/Debug/net6.0/ref/ExportPdf-Web.Application.dll

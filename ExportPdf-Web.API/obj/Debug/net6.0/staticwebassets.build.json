@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2ci9JCK6MhWMWcbfSSR+ix0/CD09m6X1SzFAsp6hv6A=",
+  "Source": "ExportPdf-Web.API",
+  "BasePath": "_content/ExportPdf-Web.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

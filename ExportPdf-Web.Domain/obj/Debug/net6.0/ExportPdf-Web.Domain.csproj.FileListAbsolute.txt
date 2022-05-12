@@ -1,0 +1,12 @@
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Domain/bin/Debug/net6.0/ExportPdf-Web.Domain.deps.json
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Domain/bin/Debug/net6.0/ExportPdf-Web.Domain.dll
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Domain/bin/Debug/net6.0/ExportPdf-Web.Domain.pdb
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Domain/obj/Debug/net6.0/ExportPdf-Web.Domain.csproj.AssemblyReference.cache
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Domain/obj/Debug/net6.0/ExportPdf-Web.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Domain/obj/Debug/net6.0/ExportPdf-Web.Domain.AssemblyInfoInputs.cache
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Domain/obj/Debug/net6.0/ExportPdf-Web.Domain.AssemblyInfo.cs
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Domain/obj/Debug/net6.0/ExportPdf-Web.Domain.csproj.CoreCompileInputs.cache
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Domain/obj/Debug/net6.0/ExportPdf-Web.Domain.dll
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Domain/obj/Debug/net6.0/refint/ExportPdf-Web.Domain.dll
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Domain/obj/Debug/net6.0/ExportPdf-Web.Domain.pdb
+/Users/vinicius.oliveira/projetos/C#/MicrosoftAPITutorial/ExportPdf-Web/ExportPdf-Web.Domain/obj/Debug/net6.0/ref/ExportPdf-Web.Domain.dll
